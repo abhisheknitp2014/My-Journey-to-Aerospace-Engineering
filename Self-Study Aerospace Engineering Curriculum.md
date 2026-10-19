@@ -1,4 +1,4 @@
-# Self-Study Aerospace Engineering Curriculum: Bachelor's (4 Years) + Master's (2 Years)
+# Self-Study Aerospace Engineering Curriculum: Bachelor's (3+1 Years) + Master's (2 Years)
 
 Oct 19, 2026 · 
 
