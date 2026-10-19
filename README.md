@@ -10,7 +10,7 @@ My goal is to follow a structured aerospace engineering curriculum similar to wh
 
 ## How This Curriculum Was Created
 
-I used Claude (Opus 5.5 Effort: Medium) as a study-planning assistant and asked it to design a comprehensive aerospace engineering learning path.
+I used Claude (Opus 5.5 Effort: Medium) as a study-planning assistant and asked it to design a comprehensive aerospace engineering learning path (3+1 Year Bachelor's and 2 Year Master's version).
 
 ### Initial Prompt
 
