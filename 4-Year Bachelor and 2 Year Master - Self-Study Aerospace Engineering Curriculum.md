@@ -8,7 +8,7 @@ This curriculum mirrors how a full-time student progresses through a 4-year B.Sc
 
 - **Credits & load:** 1 ECTS ≈ 25–30 hours of total work. A 30-ECTS semester is \~750–900 h, i.e. \~40 h/week over a \~20-week term (15 teaching weeks plus exam and project weeks). At 20 h/week, expect double the calendar time.
 - **Prerequisites:** as at a university, start a course only after passing its prerequisites. Key chains: calculus → differential equations → dynamics → stability & control; signals & systems → control → estimation; numerical methods → CFD/FEM; structures → structural dynamics → aeroelasticity.
-- **Per course:** lectures → textbook chapter → weekly problem sets without looking at solutions → timed midterm and final using the posted exams. Set a pass mark (e.g., 60%) and repeat material you fail.
+- **Per course:** lectures → textbook chapter → weekly problem sets without looking at solutions → timed midterm and final using the posted exams. Grade every course with the absolute grading policy below.
 - **Format key:** (V) = video lectures; (N) = lecture notes, problem sets and exams, no video.
 - **Links:** every course page was checked on 19 Oct 2026. If one moves, search the course number or title on the platform.
 - **Books:** marked (free) are open-access; the rest are standard textbooks (library or purchase).
@@ -29,6 +29,74 @@ This curriculum mirrors how a full-time student progresses through a 4-year B.Sc
 | M1 · S2 | Graduate core II | 30 |
 | M2 · S1 | Specialisation track + thesis proposal | 30 |
 | M2 · S2 | Master's thesis | 30 |
+
+## Self-assessment & grading policy (absolute grading)
+
+Every course is graded against fixed criteria set before the course starts. Grades are never curved and never adjusted after seeing results. The aim is a transcript an outside reviewer could audit.
+
+### 1. Grade scale
+
+| Total score | Grade (0–5) | Letter | Meaning |
+| --- | --- | --- | --- |
+| ≥ 90% | 5 | A | Excellent: complete, correct, well argued |
+| 80–89% | 4 | B | Very good: minor errors only |
+| 70–79% | 3 | C | Good: sound grasp, some gaps |
+| 65–69% | 2 | D | Satisfactory |
+| 60–64% | 1 | E | Sufficient: minimum pass |
+| < 60% | 0 | F | Fail |
+
+**Extra pass condition:** at least 50% on the final exam itself, whatever the course total.
+
+### 2. Assessment weights (fixed per course type)
+
+| Course type | Components and weights |
+| --- | --- |
+| Lecture course with posted exams (MIT OCW, Yale) | Problem sets 20% · midterm 30% · final exam 50% |
+| NPTEL course | Weekly assignments 25% · final exam 75% (NPTEL's own weighting) |
+| Coursera / edX in audit mode (graded items may be locked) | Module problems 40% · final exam assembled in advance from unseen course problems 60% |
+| Lab or experimental project | Plan and lab notebook 20% · written report 50% · recorded oral presentation 30% |
+| Capstone and thesis | Rubric in section 5 |
+
+### 3. Exam protocol
+
+- **Unseen final:** before starting a course, set aside one posted exam and its solutions for the final; do not open them while studying.
+- **Conditions:** original time limit, one sitting, the original exam's rules on notes and calculators, no internet and no AI assistance.
+- **No posted exam:** assemble the final in advance from problems you have not attempted (about 2–3 hours of work).
+- **External exam overrides:** if an independently proctored exam exists (e.g., the NPTEL certification exam), its score replaces your self-marked final.
+
+### 4. Marking rules
+
+- **Timing:** mark against the official solutions at least 24 hours after the exam.
+- **Partial credit per question:** correct method and result 100%; correct method with a numerical slip 70%; correct setup only 30%; otherwise 0%.
+- **No official solution:** credit is given only if an independent check confirms the answer (a second method, a numerical simulation, dimensional analysis or limiting cases); otherwise the question scores 0.
+- **Leniency check:** two weeks later, re-mark a random 20% of questions without looking at your earlier marks. If the two marks differ by more than 10 percentage points, re-mark the whole exam and keep the lower score.
+
+### 5. Capstone and thesis rubric
+
+Each criterion is scored 0–5; the grade is the weighted mean.
+
+| Criterion | Weight | Descriptor for grade 5 |
+| --- | --- | --- |
+| Problem definition & requirements | 15% | Clear, testable requirements traced to the mission or research question |
+| Technical correctness | 30% | Analyses correct; assumptions stated and justified |
+| Verification & validation | 20% | Results checked against independent data or methods; uncertainty quantified |
+| Depth & trade studies | 15% | Alternatives compared quantitatively; choices justified |
+| Communication & reproducibility | 20% | Clear report; every figure regenerable from public code and data |
+
+If a qualified external reviewer (practising engineer or academic) grades the work, their grade is recorded instead of the self-grade.
+
+### 6. Retakes and progression
+
+- **Retakes:** at most one per course, with a different unseen exam, after at least two weeks of remediation. Both attempts stay on the transcript.
+- **Prerequisites:** grade ≥ 3 (≥ 70%) in a course before starting any course that depends on it.
+- **Semester rule:** if more than one course in a semester is failed, pass those before starting the next semester.
+- **Bachelor's → Master's:** all Part A courses passed and a credit-weighted mean ≥ 3.0.
+
+### 7. Records and external benchmarks
+
+- **Transcript:** one spreadsheet row per course with ECTS, component scores, grade, date, attempt number and a link to evidence (scanned exam, code repository, report).
+- **Weighted mean:** Σ(grade × ECTS) ÷ Σ ECTS, computed per semester and cumulatively.
+- **External benchmarks:** take NPTEL proctored certification exams where available; at the end of Year 4, sit a past GATE Aerospace Engineering (AE) paper under its time limit and mark it with the official answer key as an independent check on bachelor-level knowledge.
 
 ## Part A — Bachelor's degree (4 years, 240 ECTS)
 
