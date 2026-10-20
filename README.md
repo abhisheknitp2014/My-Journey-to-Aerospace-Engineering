@@ -16,13 +16,23 @@ I used Claude (Opus 5.5 Effort: Medium) as a study-planning assistant and asked 
 
 > I want to become a self-taught Aerospace Engineer. I don't have time to attend university. Give me a 3-year study plan covering the courses typically taken by Aerospace Engineering bachelor's students. Organize the plan by year, semester, and study period similar to a university curriculum. Include freely available video/audio lectures and reading materials from platforms such as NPTEL, Coursera, and other educational resources.
 
-### Follow-Up Prompt
+### Follow-Up Prompts
 
 > Add a fourth year with additional courses that you think would be critical after completing the suggested first three years.
 
-### Final Refinement
-
 > Also suggest a subsequent curriculum for a Master's degree. Follow the same instructions as above when planning.
+
+Prompts until now resulted into Self-study plan for 3+1 Year Bachelor's and 2 Year's Master version (all done with Opus 5.5 Effort: Medium).
+
+
+**Next two prompts with Opus 5.5 Effort: Max**
+
+> Earlier, I asked for 3 years plan then add additional 4th year, then final 2 years for Master's degree. Reorganize the Self-Study Aerospace Engineering Curriculum: Bachelor’s (4 Years) + Master’s (2 Years) with the idea that I have 4 year Bachelor's degree and subsequent 2 years master's degree. follow same instructions as above when planning on how a university student would follow if they were studying in formal degree setting at a top tier scientific University, and  give link to audio/video lectures freely available on the Internet, such nptel, coursera, Opencourseware and other platform along with the reading material.
+
+> give me text to include include self assessed policy (absolute grading policy)
+
+Last two promts resulted into Self-study plan for 4 Year Bachelor's and 2 Year's Master version. Goal is to follow this version.
+
 
 ## Curriculum
 
