@@ -2,6 +2,8 @@
 
 Oct 19, 2026 · 
 
+**Author:** Claude Opus 5.5, Effort: Max
+
 ## How to use this plan
 
 Eight 15-week semesters (Years 1–3 core, Year 4 advanced), 5 courses each, ordered like a B.Sc./B.Tech aerospace degree: math and physics, then engineering science, then aero disciplines, then design.
