@@ -1,7 +1,14 @@
 # Academic Record & Official Transcript (Self-Issued)
 
 **Programme:** Self-Study Aerospace Engineering — Bachelor's (240 ECTS) + Master's (120 ECTS)
-**Student:** ____________________  **Start date:** ____________  **Transcript version/date:** ____________
+
+**Student:** ____________________  
+
+**Start date:** ____________  
+
+**Transcript version/date:** ____________
+
+**Link to Spreadsheet (doing call calculations): ** [Link](https://docs.google.com/spreadsheets/d/1S_WAioTdueOLojDIcNaDDCx_XV65yVhZ/edit?usp=sharing&ouid=118446193757006733825&rtpof=true&sd=true)
 
 > This is a self-issued record kept under the programme's absolute grading policy. It is not an institutional transcript. Every grade must link to evidence an outside reviewer can inspect.
 
