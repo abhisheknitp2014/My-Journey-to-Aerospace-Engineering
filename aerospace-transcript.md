@@ -8,7 +8,7 @@
 
 **Transcript version/date:** ____________
 
-**Link to Spreadsheet (doing call calculations):** [Link](https://docs.google.com/spreadsheets/d/1S_WAioTdueOLojDIcNaDDCx_XV65yVhZ/edit?usp=sharing&ouid=118446193757006733825&rtpof=true&sd=true)
+**Link to Spreadsheet (doing all calculations):** [Link](https://docs.google.com/spreadsheets/d/1S_WAioTdueOLojDIcNaDDCx_XV65yVhZ/edit?usp=sharing&ouid=118446193757006733825&rtpof=true&sd=true)
 
 > This is a self-issued record kept under the programme's absolute grading policy. It is not an institutional transcript. Every grade must link to evidence an outside reviewer can inspect.
 
