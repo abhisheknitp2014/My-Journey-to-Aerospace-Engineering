@@ -8,10 +8,7 @@
 
 **Transcript version/date:** ____________
 
-**Link to Spreadsheet (doing all calculations):** [Link](https://docs.google.com/spreadsheets/d/1S_WAioTdueOLojDIcNaDDCx_XV65yVhZ/edit?usp=sharing&ouid=118446193757006733825&rtpof=true&sd=true)
-
-
-<a href="https://docs.google.com/spreadsheets/d/1S_WAioTdueOLojDIcNaDDCx_XV65yVhZ/edit?usp=sharing&ouid=118446193757006733825&rtpof=true&sd=true" title="Transcript document (both this md file and the spreadsheet hosted on Google Drive) generated with Claude Opus 5.5 Effort Medium with this prompt: Create a unified Records and external benchmarks, in particular official transcript as seperate md file. should definitely include Transcript: one spreadsheet row per course with ECTS, component scores, grade, date, attempt number and a link to evidence (scanned exam, code repository, report). Weighted mean: Σ(grade × ECTS) ÷ Σ ECTS, computed per semester and cumulatively. for entire program.">
+**Link to Spreadsheet (doing all calculations):** <a href="https://docs.google.com/spreadsheets/d/1S_WAioTdueOLojDIcNaDDCx_XV65yVhZ/edit?usp=sharing&ouid=118446193757006733825&rtpof=true&sd=true" title="Transcript document (both this md file and the spreadsheet hosted on Google Drive) generated with Claude Opus 5.5 Effort Medium with this prompt: Create a unified Records and external benchmarks, in particular official transcript as seperate md file. should definitely include Transcript: one spreadsheet row per course with ECTS, component scores, grade, date, attempt number and a link to evidence (scanned exam, code repository, report). Weighted mean: Σ(grade × ECTS) ÷ Σ ECTS, computed per semester and cumulatively. for entire program.">
   Spreadsheet Link
 </a>
 
